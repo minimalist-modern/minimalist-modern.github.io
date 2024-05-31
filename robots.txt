@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://minimalist-modern.github.io/a/sitemap.html
+Sitemap: https://minimalist-modern.github.io/b/sitemap.html
+Sitemap: https://minimalist-modern.github.io/c/sitemap.html
+Sitemap: https://minimalist-modern.github.io/d/sitemap.html
